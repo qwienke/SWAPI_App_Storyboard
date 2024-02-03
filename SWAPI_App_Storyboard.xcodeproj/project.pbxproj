@@ -15,6 +15,7 @@
 		E48F88032B6C7FF80013747F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E48F88012B6C7FF80013747F /* LaunchScreen.storyboard */; };
 		E48F880B2B6C826F0013747F /* PeopleInfoController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E48F880A2B6C826F0013747F /* PeopleInfoController.swift */; };
 		E48F880D2B6C82DF0013747F /* GetPeopleInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = E48F880C2B6C82DF0013747F /* GetPeopleInfo.swift */; };
+		E48F88352B6E40290013747F /* PersonTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E48F88342B6E40290013747F /* PersonTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		E48F88042B6C7FF80013747F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E48F880A2B6C826F0013747F /* PeopleInfoController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PeopleInfoController.swift; sourceTree = "<group>"; };
 		E48F880C2B6C82DF0013747F /* GetPeopleInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetPeopleInfo.swift; sourceTree = "<group>"; };
+		E48F88342B6E40290013747F /* PersonTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				E48F880A2B6C826F0013747F /* PeopleInfoController.swift */,
 				E48F880C2B6C82DF0013747F /* GetPeopleInfo.swift */,
 				E48F87FC2B6C7FF60013747F /* Main.storyboard */,
+				E48F88342B6E40290013747F /* PersonTableViewController.swift */,
 				E48F87FF2B6C7FF80013747F /* Assets.xcassets */,
 				E48F88012B6C7FF80013747F /* LaunchScreen.storyboard */,
 				E48F88042B6C7FF80013747F /* Info.plist */,
@@ -146,6 +149,7 @@
 			files = (
 				E48F880D2B6C82DF0013747F /* GetPeopleInfo.swift in Sources */,
 				E48F87FB2B6C7FF60013747F /* ViewController.swift in Sources */,
+				E48F88352B6E40290013747F /* PersonTableViewController.swift in Sources */,
 				E48F87F72B6C7FF60013747F /* AppDelegate.swift in Sources */,
 				E48F880B2B6C826F0013747F /* PeopleInfoController.swift in Sources */,
 				E48F87F92B6C7FF60013747F /* SceneDelegate.swift in Sources */,
